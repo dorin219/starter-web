@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dorin Petre -- dorin219@gmail.com
 
 # THANKS
 
